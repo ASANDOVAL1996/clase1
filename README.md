@@ -1,3 +1,3 @@
 # clase1
 
-Este repositorio es un ejercicio que realizamos en clase
+Este repositorio es un ejercicio que realizamos en clase.
